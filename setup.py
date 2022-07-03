@@ -10,6 +10,7 @@ setup_args = {
    'license': 'MIT',
    'name': 'pyfoo',
    'packages': ['pyfoo'],
-   'version': '0.1.0'}
+   'version': '0.1.1',
+   'include_package_data': True}
 
 setup(**setup_args)
