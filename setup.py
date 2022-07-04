@@ -1,4 +1,3 @@
-
 from setuptools import setup
 
 setup_args = {
@@ -10,7 +9,7 @@ setup_args = {
    'license': 'MIT',
    'name': 'pyfoo',
    'packages': ['pyfoo'],
-   'version': '0.1.1',
+   'version': '0.1.2',
    'include_package_data': True}
 
 setup(**setup_args)
